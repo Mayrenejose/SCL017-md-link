@@ -1,13 +1,5 @@
 
-![Diagrama-Flujo](./assent/diagramaMD.jpg);
-
-
-
-
-
-
-
-
+![Diagrama-Flujo](./assent/diagramaMD.png)
 
 # Markdown Links
 
