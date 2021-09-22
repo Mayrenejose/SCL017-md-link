@@ -4,13 +4,7 @@ const path = require('path');
 
 //declaracion de colores a utilizar
 const redColor = clc.red.bold;
-const greenColor = clc.green.italic;
-const greenColorBold = clc.green.bold;
-const blueColor = clc.blue;
-const magentaColor = clc.magenta;
-const cyanColorBold = clc.cyan.bold;
 const cyanColor = clc.cyan;
-
 
 
 const miFileRead = (route) => {
